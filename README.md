@@ -33,7 +33,7 @@ A Web Application where personalized health records are stored in cloud and can 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Technical skills
+## Core skills
 -	Programming Languages: Python, SQL, Java, C#, PowerShell
 -	Data Visualization Tools: Tableau, Power BI
 -	Web Development Frameworks: HTML, MVC, .NET, WCF, WPF
